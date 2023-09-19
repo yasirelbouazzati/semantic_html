@@ -1,0 +1,239 @@
+
+* {
+    font-family: sans-serif;
+}
+
+.title {
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+
+.cajita1 {
+    margin-left: 514px;
+    margin-top: 10px;
+    border: 1px solid;
+    border-color: rgb(81, 81, 81);
+    width: 4%;
+    height: 3vh;
+    text-align: center;
+    padding-top: 6px;
+    float: left;
+    border-radius: 5px;
+}
+
+
+.home {
+    text-decoration: none;
+    color: rgb(81, 81, 81);
+    font-weight: bolder;
+}
+
+.cajita2 {
+    margin-left: 12px;
+    margin-top: 10px;
+    border: 1px solid;
+    border-color: rgb(81, 81, 81);
+    width: 8%;
+    height: 3vh;
+    text-align: center;
+    padding-top: 6px;
+    float: left;
+    border-radius: 5px;
+}
+
+.categories {
+    text-decoration: none;
+    color: rgb(81, 81, 81);
+    font-weight: bolder;
+}
+
+.cajita3 {
+    margin-left: 12px;
+    margin-top: 10px;
+    border: 1px solid;
+    border-color: rgb(81, 81, 81);
+    width: 5%;
+    height: 3vh;
+    text-align: center;
+    padding-top: 6px;
+    float: left;
+    border-radius: 5px;
+}
+
+.about {
+    text-decoration: none;
+    color: rgb(81, 81, 81);
+    font-weight: bolder;
+}
+
+.cajita4 {
+    margin-left: 12px;
+    margin-top: 10px;
+    border: 1px solid;
+    border-color: rgb(81, 81, 81);
+    width: 6%;
+    height: 3vh;
+    text-align: center;
+    padding-top: 6px;
+    float: left;
+    border-radius: 5px;
+}
+
+.contact {
+    text-decoration: none;
+    color: rgb(81, 81, 81);
+    font-weight: bolder;
+}
+
+
+.title1 {
+    margin-left: 10px;
+    margin-top: 7%;
+    font-size: 30px;
+}
+
+
+.cajita5 {
+    margin-left: 12px;
+    margin-top: 2px;
+    width: 70%;
+    height: 4vh;
+    text-align: center;
+    float: left;
+    background-color: rgb(218, 215, 215);
+    border-radius: 5px;
+}
+
+.texto1 {
+    color: rgb(0, 0, 0);
+    float: left;
+    margin-top: 7px;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+.t1 {
+    color: black;
+    margin-left: 10px;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+.t2 {
+    color: black;
+    margin-left: 10px;
+    margin-top: 1%;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.title2 {
+    margin-left: 10px;
+    margin-top: 2%;
+    font-size: 30px;
+}
+
+
+.cajita6 {
+    margin-left: 12px;
+    margin-top: 2px;
+    width: 70%;
+    height: 4vh;
+    text-align: center;
+    float: left;
+    background-color: rgb(218, 215, 215);
+    border-radius: 5px;
+}
+
+.texto2 {
+    color: rgb(0, 0, 0);
+    float: left;
+    margin-top: 7px;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+.t3 {
+    color: black;
+    margin-left: 10px;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+.t4 {
+    color: black;
+    margin-left: 10px;
+    margin-top: 1%;
+    font-size: 20px;
+}
+
+
+.cajitas_prova {
+    color: black;
+    border-top: 2px solid rgb(149, 148, 148);
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.cajitas_prova2 {
+    height: 63vh;
+    width: 400px;
+    border-left: 2px solid rgb(149, 148, 148);
+    margin-left: 1100px;
+    margin-top: -492px;
+
+
+}
+
+
+.title3 {
+    margin-left: 10px;
+    margin-top: 5%;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+
+.t5 {
+    color: black;
+    margin-left: 10px;
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
+
+
+.title4 {
+    margin-left: 10px;
+    margin-top: 5%;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+
+.t6 {
+    color: black;
+    margin-left: 10px;
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
+.t7 {
+    color: black;
+    margin-left: 600px;
+    margin-top: 1%;
+    font-size: 20px;
+}
