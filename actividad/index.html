@@ -1,54 +1,72 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
+<html lang="en">  
+  <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>yasir el bouazzati</title>
-</head>
-
-<body>
-    <header class="header">
-        <h1>Welcome to my blog</h1>
-        <nav class="navigation">
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Categories</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-
-
-
-            </ul>   
-
-        </nav>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>My Blog</title>
+  </head>
+  <body class="wrapper">
+    <header class="header-top">
+      <h1 class="header-top__heading">Welcome to My Blog</h1>
+      <nav class="header-top__nav">
+        <ul class="nav-list">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Categories</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
     </header>
 
-    <main class="main-content">
-        <section>
-            <article>f </article>
-            <article>d </article>
+    <div>
+      <main>
+        <article>
+          <h2 class="article-header" >Post Title 1</h2>
+          <p class="article-paragraph-date">
+            Published on
+            <time datetime="2023-09-12">September 12, 2023</time> by John Doe
+          </p>
+          <p class="article-paragraph">This is the content of the blog post...</p>
+          <p class="article-paragraph">More content goes here...</p>
+        </article>
+
+        <article >
+          <h2 class="article-header">Post Title 2</h2>
+          <p class="article-paragraph-date">
+            Published on
+            <time datetime="2023-09-10">September 10, 2023</time> by Jane Smith
+          </p>
+          <p class="article-paragraph">This is another blog post...</p>
+          <p class="article-paragraph">More content goes here...</p>
+        </article>
+        
+       
+      </main>
+
+      <aside>
+        <section >
+          <h2 class="section-header">Recent Posts</h2>
+          <ul class="section-list">
+            <li><a href="/posts/1.html">Post Title 1</a></li>
+            <li><a href="#">Post Title 2</a></li>
+            <li><a href="#">Post Title 3</a></li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2 class="section-header">Categories</h2>
+        <ul class="section-list">
+            <li><a href="#">Category 1</a></li>
+            <li><a href="#">Category 2</a></li>
+            <li><a href="#">Category 3</a></li>
+          </ul>
         </section>
-        <aside>
-            <section>
-              
-                    <section>
-                        <h2>Recent Posts</h2>
-                        <li><a href="#">Post Title 1</a></li>
-                        <li><a href="#">Post Title 2</a></li>
-                        <li><a href="#">Post Title 3</a></li>
-                    </section>
+      </aside>
+    </div>
 
-                    <section>
-                        <h2>Categories</h2>
-                        <li><a href="#">Category 1</a></li>
-                        <li><a href="#">Category 2</a></li>
-                        <li><a href="#">Category 3</a></li>
-                    </section>
-                </aside>
-    </main>
-
-    <footer class="footer">&copy;</footer>
-</body>
-
+    <footer>
+      <p class="footer-paragraph">&copy; 2023 My Blog. All rights reserved.</p>
+    </footer>
+  </body>
 </html>
